@@ -14,6 +14,8 @@ Change <strong>connectionStrings</strong> xml in <strong>Web.config</strong> fil
 
 # Screenshots
 <br>
+# Use case diagram
+<img src="https://user-images.githubusercontent.com/54875003/177016193-8e5c9ba6-ac56-4d4a-8439-df563cd73687.png">
 
 # SQLConnections
 <img src="https://user-images.githubusercontent.com/54875003/160283360-d1d3e451-0cf7-441b-8a21-f8e1bb9681e8.jpg">
